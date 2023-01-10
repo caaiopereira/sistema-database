@@ -7,9 +7,10 @@
 <h4>Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:<br></h4>
 
   ⇨ Existem outras entidades além dessas três?<br>
+  <b>Sim, Disciplina e Professor</b><br> 
   
-                  a
-                    
   ⇨ Quais são os principais campos e tipos?<br>
-  ⇨ Como essas entidades estão relacionadas?<br>
+  <b>id, e dos tipos int</b><br>
   
+  ⇨ Como essas entidades estão relacionadas?<br>
+  <b>C1:N e N:N</b><br>
