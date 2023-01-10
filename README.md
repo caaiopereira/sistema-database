@@ -13,4 +13,4 @@
   <b>id, e dos tipos int</b><br>
   
   ⇨ Como essas entidades estão relacionadas?<br>
-  <b>C1:N e N:N</b><br>
+  <b>1:N e N:N</b><br>
