@@ -7,7 +7,7 @@
 <h4>Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:<br></h4>
 
   ⇨ Existem outras entidades além dessas três?<br>
-  <b>Formação e Professor</b><br> 
+  <b>Materia e Professor</b><br> 
   
   ⇨ Quais são os principais campos e tipos?<br>
   <b>id, e dos tipos int</b><br>
